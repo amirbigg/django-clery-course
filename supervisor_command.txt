@@ -1,7 +1,7 @@
 1. install supervisor
         sudo apt-get install supervisor
 
-2. all supervisor processes go here
+2. all supervisor processes goes here
         /etc/supervisor/conf.d
 
 3. create project's celery configuration file for supervisor
